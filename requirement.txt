@@ -1,7 +1,9 @@
 streamlit
 pandas
+numpy
 openpyxl
 matplotlib
+seaborn
 statsmodels
 scikit-learn
 scipy
